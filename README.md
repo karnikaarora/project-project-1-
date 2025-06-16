@@ -1,26 +1,14 @@
-<h1 align = "center">Merlin Fashion🛒</h1>
+Merlin Fashion
+Merlin Fashion is a sustainable fashion website dedicated to promoting eco-friendly and ethical clothing choices. The platform offers a clean, user-friendly interface built with modern front-end technologies, providing visitors an easy way to browse and shop responsibly.
 
-
-<p align="center">Refresh Your Wardrobe!🛍️ 
- <p align="center">
-With a passion for fashion here's my very own custom website relating to it.💃
- </p>
- 
- 
- <p align="center">
- The template is for the Online Clothing Fashion which includes trending wardrobe collection. The website is made from scratch 🥳 and doesn't include any readymade code.
-Merlin Fashion doesn't include anything related to database, it is just a HTML, CSS and JS template. Though you can find some familiar images used in the website taken from various sources, but the purpose is to only make it more beautiful.🖤
-
- </p>
-
-  <p align="center">
-    And that's how it looks🤩
- </p>
- <p align="center">
- <img src="https://user-images.githubusercontent.com/47295558/76738138-11372680-6790-11ea-82c6-c27a9c2b7b68.gif">
-  </p>
- <p align="center">
- Saw all the other pages?🧐 Go check it out now!🥳 
-   https://singh-shivani.github.io/Merlin-Fashion/
-</p>
-"# project-project-1-" 
+Features
+Categories: Explore diverse fashion categories to find your perfect sustainable style.
+Products: Browse a curated collection of eco-conscious fashion products.
+Login: Secure user login system for personalized shopping experience.
+Contact: Reach out via a dedicated contact page for support or inquiries.
+Responsive Design: Smooth navigation with a mobile-friendly, intuitive UI.
+Tech Stack & Libraries
+HTML5, CSS3 for structure and styling
+Custom JavaScript for interactive features (e.g., navigation, login)
+Google Fonts integration for typography
+Responsive navbar with hamburger menu for mobile devices
